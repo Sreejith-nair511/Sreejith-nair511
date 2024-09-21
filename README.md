@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **LLM Tunning , ML, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **GameDev, C, Python... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **jet fuel melts steel beams**
 
