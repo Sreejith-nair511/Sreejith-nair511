@@ -68,7 +68,8 @@
 
 <br/>
 
-<img>![Sreejith_s_Badge_Contributor_GSSoC2024-Extd](https://github.com/user-attachments/assets/af379534-c52b-473f-9223-0ed3d1c968e5)</img>
+<img>![Sreejith_s_Badge_Contributor_GSSoC2024-Extd (1)](https://github.com/user-attachments/assets/cb784577-9467-4f67-8533-8d0345ac1f00)
+</img>
 
 
 <div align="center">
