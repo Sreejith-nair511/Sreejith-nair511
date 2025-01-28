@@ -72,11 +72,25 @@
 ---
 
 <h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">🚀 Founder Projects 🚀</h2>
-<div align="center">
-  <p align="center">
-    Founder of **[ZreeGames](https://zreegames.itch.io)** 🎮 - A platform for fun, creative games!  
-    Founder of **[ALStudio](https://alstudio.xyz)** 🖥️ - Providing innovative software solutions.  
-    Proudly contributing to **ISRO projects** 🛰️ - Exploring the frontiers of space!
+
+<div align="center" style="border: 2px solid #6c63ff; padding: 20px; border-radius: 15px; background-color: #f4f7fb; width: 80%;">
+
+  <h3 style="color: #6c63ff; text-decoration: underline;">ZreeGames 🎮</h3>
+  <p>
+    **[ZreeGames](https://zreegames.itch.io)** is a gaming platform where creativity meets fun! As the founder, I strive to bring innovative and exciting games to life.  
+    Our team works hard to deliver unique gaming experiences for enthusiasts all over the world. 🌍🎮
+  </p>
+
+  <h3 style="color: #6c63ff; text-decoration: underline;">ALStudio 🖥️</h3>
+  <p>
+    **[ALStudio](https://alstudio.xyz)** is a software development company focused on building cutting-edge solutions. We specialize in creating powerful and scalable applications for businesses and individuals.  
+    From custom software to web solutions, ALStudio brings ideas to life! 💻🚀
+  </p>
+
+  <h3 style="color: #6c63ff; text-decoration: underline;">ISRO Projects 🛰️</h3>
+  <p>
+    Proudly contributing to **ISRO** (Indian Space Research Organisation) projects, where we explore the frontiers of space and technology.  
+    Being part of ISRO's visionary projects is an honor, and we aim to push the boundaries of innovation and exploration. 🚀🌌
   </p>
 </div>
 
@@ -97,6 +111,7 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake.svg" />
 </h3>
+
 
 
 
