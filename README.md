@@ -108,9 +108,35 @@
 
 ---
 
+<!-- Dashboard Section Below -->
+
+<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">📊 My Dashboard 📊</h2>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; width: 90%; margin: auto;">
+  <div style="border: 2px solid #6c63ff; padding: 20px; border-radius: 10px; background-color: #f4f7fb; text-align: center;">
+    <h3>Projects</h3>
+    <p><strong>ZreeGames:</strong> A platform for creative games. 🎮</p>
+    <p><strong>ALStudio:</strong> Software solutions for all. 💻</p>
+    <p><strong>ISRO:</strong> Pushing the boundaries of space. 🚀</p>
+  </div>
+  
+  <div style="border: 2px solid #6c63ff; padding: 20px; border-radius: 10px; background-color: #f4f7fb; text-align: center;">
+    <h3>LeetCode Stats</h3>
+    <p>Over 260 questions solved! 🔥</p>
+    <p>Current Rating: 1700+ 🎯</p>
+  </div>
+
+  <div style="border: 2px solid #6c63ff; padding: 20px; border-radius: 10px; background-color: #f4f7fb; text-align: center;">
+    <h3>Contributions</h3>
+    <p>48+ repositories contributed to! 📈</p>
+    <p>Continuous learning and growth. 💡</p>
+  </div>
+</div>
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake.svg" />
 </h3>
+
 
 
 
