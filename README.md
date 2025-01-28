@@ -61,17 +61,8 @@
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake.svg" />
-  <br><br>
-  <p>Contributed to over 170 repositories, learning and growing every day! 📈</p>
-  <img src="https://img.shields.io/badge/Contributions-170+_Repositories-4C1D32?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
----
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Sreejith-nair511&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <p>Contributed to over **48 repositories**, learning and growing every day! 📈</p>
+  <img src="https://img.shields.io/badge/Contributions-48_repositories-4C1D32?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
@@ -85,6 +76,7 @@
 
 <h3 align="center">✨ Thanks for Visiting! ✨</h3>
 <p align="center">Feel free to explore and connect! 🚀</p>
+
 
 
 
