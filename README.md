@@ -4,12 +4,34 @@
 <!-- Animated Name Banner -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+There!+I'm+Sreejith+S+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE+%7C+Founder+%F0%9F%9A%80;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+There!+I'm+Sreejith+S+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE+%7C+Founder+%F0%9F%9A%80;National+Hackathon+Champion+%F0%9F%8F%86;Welcome+to+my+Digital+Space!" alt="Typing SVG" />
     </a>
 </div>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Recent Achievements Section -->
+<h2 align="center">🏆 Recent Achievements</h2>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center" width="50%">
+                <h3>🥇 National Champion</h3>
+                <img src="https://img.shields.io/badge/E--MINDS_Hackathon-1st_Place-FFD700?style=for-the-badge" />
+                <p>GSSS Institute of Engineering and Technology</p>
+                <p>28-Hour National Level Competition</p>
+                <p>December 2024</p>
+            </td>
+            <td align="center" width="50%">
+                <h3>👩‍💻 GirlScript Contributor</h3>
+                <img src="https://img.shields.io/badge/GirlScript-Summer_of_Code-FF6B6B?style=for-the-badge" />
+                <p>Extended Program Contributor</p>
+                <p>Oct 2024 - Present</p>
+            </td>
+        </tr>
+    </table>
+</div>
 
 <!-- Stats Dashboard -->
 <h2 align="center">📊 Developer Dashboard</h2>
@@ -25,6 +47,9 @@
         <tr>
             <td>
                 <img src="https://img.shields.io/badge/🎮_Current_Project-Steam_RPG_Game-6C63FF?style=for-the-badge" />
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/🏆_Recent_Win-National_Hackathon-6C63FF?style=for-the-badge" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/📚_Learning-LLM_&_AWS-6C63FF?style=for-the-badge" />
@@ -76,22 +101,30 @@
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
-<!-- Achievements -->
-<h2 align="center">🏆 Achievements</h2>
+<!-- Achievement Metrics -->
+<h2 align="center">📈 Achievement Metrics</h2>
 <div align="center">
     <table>
         <tr>
             <td align="center">
-                <img src="https://img.shields.io/badge/LeetCode-260+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-                <p>Problems Solved</p>
+                <img src="https://img.shields.io/badge/Hackathons-National_Champion-FFD700?style=for-the-badge" />
             </td>
             <td align="center">
-                <img src="https://img.shields.io/badge/Rating-1700+-43853D?style=for-the-badge&logo=leetcode&logoColor=white" />
-                <p>Current Rating</p>
+                <img src="https://img.shields.io/badge/GirlScript-Contributor-FF6B6B?style=for-the-badge" />
             </td>
             <td align="center">
-                <img src="https://img.shields.io/badge/Repos-48+-4C1D32?style=for-the-badge&logo=github&logoColor=white" />
-                <p>Contributions</p>
+                <img src="https://img.shields.io/badge/LeetCode-260+-FFA116?style=for-the-badge" />
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Rating-1700+-43853D?style=for-the-badge" />
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Repos-48+-4C1D32?style=for-the-badge" />
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Projects-Active_Developer-6C63FF?style=for-the-badge" />
             </td>
         </tr>
     </table>
@@ -113,10 +146,17 @@
 
 <!-- Most Used Languages -->
 <div align="center">
+    <h2>💻 Languages</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejith-nair511&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<!-- Footer -->
+<!-- Footer with Snake Animation -->
+<div align="center">
+    <h2>🐍 Contribution Graph</h2>
+    <img src="https://github.com/Sreejith-nair511/Sreejith-nair511/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<!-- Footer Wave -->
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
 </div>
