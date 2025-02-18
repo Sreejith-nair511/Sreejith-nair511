@@ -25,12 +25,14 @@
 <table align="center">
     <tr>
         <td align="center" width="50%">
+            <h3>🥇 National Champion</h3>
             <img src="https://img.shields.io/badge/E--MINDS_Hackathon-1st_Place-FFD700?style=for-the-badge" />
             <p>GSSS Institute of Engineering and Technology</p>
             <p>28-Hour National Level Competition</p>
             <p>December 2024</p>
         </td>
         <td align="center" width="50%">
+            <h3>👩‍💻 GirlScript Contributor</h3>
             <img src="https://img.shields.io/badge/GirlScript-Summer_of_Code-FF6B6B?style=for-the-badge" />
             <p>Extended Program Contributor</p>
             <p>Oct 2024 - Present</p>
@@ -39,11 +41,10 @@
 </table>
 
 <!-- Stats Dashboard -->
-<h2 align="center">📊 Developer Dashboard</h2>
-<p align="center">
+<div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Sreejith-nair511&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Sreejith's Stats" /> 
     <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sreejith-nair511&hide_border=true&stroke=6C63FF&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakNum=FFFFFF&currStreakLabel=6C63FF&sideNums=FFFFFF&sideLabels=6C63FF" alt="Streak Stats" />
-</p>
+</div>
 
 <!-- Current Projects -->
 <h2 align="center">🎯 Current Missions</h2>
@@ -82,12 +83,13 @@
 <!-- Tech Stack -->
 <h2 align="center">⚡ Tech Arsenal</h2>
 
-<h3 align="center">Primary Languages</h3>
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 <h3 align="center">Databases & Tools</h3>
@@ -129,46 +131,7 @@
 <!-- Contribution Graph -->
 <div align="center">
     <h2>🐍 Contribution Graph</h2>
-    
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: Sreejith-nair511
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - run: git status
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-![Snake animation](https://github.com/Sreejith-nair511/Sreejith-nair511/blob/output/github-contribution-grid-snake.svg)
+    <img src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <!-- Footer -->
