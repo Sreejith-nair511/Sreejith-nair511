@@ -1,138 +1,105 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejith-nair511.Sreejith-nair511&count=600" />
+<!-- Dynamic Visitor Badge -->
+<div align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Sreejith-nair511.Sreejith-nair511&count=600" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;Welcome+to+My+Profile!+🚀;" />
-</h1>
-
-<h3 align="center">I am <span style="color:#6c63ff;">Sreejith S</span></h3>
-<h3 align="center">A passionate software developer, founder, and game enthusiast from India 🇮🇳</h3>
-
----
-
+<!-- Animated Header -->
 <div align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+ZreeGames+and+ALStudio;Working+on+ISRO+projects+🚀" />
-  </p>
-  <p>
-    🔭 **I’m currently working on:**  
-    A **Steam-release RPG Game** 🎮
-
-    🌱 **I’m currently learning:**  
-    **LLM Tuning, Machine Learning, AWS** 💻
-
-    💬 **Ask me about:**  
-    **Game Development, C, Python, or anything [here](https://github.com/Sreejith-nair511/Sreejith-nair511/issues)**!  
-
-    ⚡ **Fun fact:**  
-    *Jet fuel melts steel beams!* ✈️🔥
-  </p>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=40&center=true&vCenter=true&width=600&height=100&duration=3000&lines=Hello%2C+World!+🌍;I+am+Sreejith+S+🚀;Welcome+to+my+Universe+💫" />
 </div>
 
----
-
-<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">📬 Connect with Me 📬</h2>
-
-<div align="center"> 
-  <a href="mailto:sreejith0511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sreejith-s-b232092a9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://zreegames.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</div>
-
----
-
-<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">⚒️ Skills & Tools ⚒️</h2>
+<!-- Holographic Introduction -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,java,c,mysql,mongodb,flask,r,git,github,vscode" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Software%20Developer%20|%20Founder%20|%20Game%20Creator&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
----
-
-<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">🏆 LeetCode Achievements 🏆</h2>
+<!-- Mission Control Dashboard -->
 <div align="center">
-  <p>I've successfully solved over 260 questions on LeetCode, enhancing my problem-solving skills and coding proficiency.</p>
-  <a href="https://leetcode.com/shreejit" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-260_solved_questions-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+    <h2>🎮 Mission Control 🎮</h2>
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=Sreejith-nair511&show_icons=true&theme=radical&hide_border=true" />
+            </td>
+            <td>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreejith-nair511&theme=radical&hide_border=true" />
+            </td>
+        </tr>
+    </table>
 </div>
 
----
-
-<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">🐍 My Contributions 🐍</h2>
+<!-- Current Operations -->
 <div align="center">
-  <p>Contributed to over **48 repositories**, learning and growing every day! 📈</p>
-  <img src="https://img.shields.io/badge/Contributions-48_repositories-4C1D32?style=for-the-badge&logo=github&logoColor=white" />
+    <h2>🚀 Current Operations</h2>
+    <table>
+        <tr>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Current_Mission-Steam_RPG_Game-FF0000?style=for-the-badge&logo=steam&logoColor=white" />
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Learning-LLM_Tuning_&_AWS-00C7B7?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+            </td>
+        </tr>
+    </table>
 </div>
 
----
-
-<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">🚀 Founder Projects 🚀</h2>
-
-<div align="center" style="border: 2px solid #6c63ff; padding: 20px; border-radius: 15px; background-color: #f4f7fb; width: 80%;">
-
-  <h3 style="color: #6c63ff; text-decoration: underline;">ZreeGames 🎮</h3>
-  <p>
-    **[ZreeGames](https://zreegames.itch.io)** is a gaming platform where creativity meets fun! As the founder, I strive to bring innovative and exciting games to life.  
-    Our team works hard to deliver unique gaming experiences for enthusiasts all over the world. 🌍🎮
-  </p>
-
-  <h3 style="color: #6c63ff; text-decoration: underline;">ALStudio 🖥️</h3>
-  <p>
-    **[ALStudio](https://alstudio.xyz)** is a software development company focused on building cutting-edge solutions. We specialize in creating powerful and scalable applications for businesses and individuals.  
-    From custom software to web solutions, ALStudio brings ideas to life! 💻🚀
-  </p>
-
-  <h3 style="color: #6c63ff; text-decoration: underline;">ISRO Projects 🛰️</h3>
-  <p>
-    Proudly contributing to **ISRO** (Indian Space Research Organisation) projects, where we explore the frontiers of space and technology.  
-    Being part of ISRO's visionary projects is an honor, and we aim to push the boundaries of innovation and exploration. 🚀🌌
-  </p>
-</div>
-
----
-
-<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">🏅 Achievements 🏅</h2>
+<!-- Tech Arsenal -->
+<h2 align="center">⚡ Tech Arsenal ⚡</h2>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cb784577-9467-4f67-8533-8d0345ac1f00" alt="Contributor Badge" width="300" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,java,c,mysql,mongodb,flask,r,git,github,vscode&perline=7" />
 </div>
 
----
-
-<h3 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">✨ Thanks for Visiting! ✨</h3>
-<p align="center">Feel free to explore and connect! 🚀</p>
-
----
-
-<!-- Dashboard Section Below -->
-
-<h2 align="center" style="border-bottom: 3px solid #6c63ff; padding-bottom: 10px;">📊 My Dashboard 📊</h2>
-
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 30px; width: 90%; margin: auto;">
-  <div style="border: 2px solid #6c63ff; padding: 20px; border-radius: 10px; background-color: #f4f7fb; text-align: center;">
-    <h3>Projects</h3>
-    <p><strong>ZreeGames:</strong> A platform for creative games. 🎮</p>
-    <p><strong>ALStudio:</strong> Software solutions for all. 💻</p>
-    <p><strong>ISRO:</strong> Pushing the boundaries of space. 🚀</p>
-  </div>
-  
-  <div style="border: 2px solid #6c63ff; padding: 20px; border-radius: 10px; background-color: #f4f7fb; text-align: center;">
-    <h3>LeetCode Stats</h3>
-    <p>Over 260 questions solved! 🔥</p>
-    <p>Current Rating: 1700+ 🎯</p>
-  </div>
-
-  <div style="border: 2px solid #6c63ff; padding: 20px; border-radius: 10px; background-color: #f4f7fb; text-align: center;">
-    <h3>Contributions</h3>
-    <p>48+ repositories contributed to! 📈</p>
-    <p>Continuous learning and growth. 💡</p>
-  </div>
+<!-- Founder Initiatives -->
+<h2 align="center">🌟 Founder Initiatives 🌟</h2>
+<div align="center">
+    <a href="https://zreegames.itch.io">
+        <img src="https://img.shields.io/badge/ZreeGames-FF4B4B?style=for-the-badge&logo=game&logoColor=white" />
+    </a>
+    <a href="https://alstudio.xyz">
+        <img src="https://img.shields.io/badge/ALStudio-00C7B7?style=for-the-badge&logo=studio&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/ISRO_Projects-1B73E8?style=for-the-badge&logo=spacex&logoColor=white" />
 </div>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake.svg" />
-</h3>
+<!-- Achievement Module -->
+<h2 align="center">🏆 Achievement Module 🏆</h2>
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <img src="https://img.shields.io/badge/LeetCode-260+_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Rating-1700+-43853D?style=for-the-badge&logo=leetcode&logoColor=white" />
+            </td>
+            <td align="center">
+                <img src="https://img.shields.io/badge/Contributions-48+_Repos-4C1D32?style=for-the-badge&logo=github&logoColor=white" />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- Connect Module -->
+<h2 align="center">🌐 Connect Module 🌐</h2>
+<div align="center">
+    <a href="mailto:sreejith0511@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/sreejith-s-b232092a9">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://zreegames.itch.io">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=itch.io&logoColor=white" />
+    </a>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+    <h2>📈 Contribution Grid 📈</h2>
+    <img src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake.svg" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+</div>
