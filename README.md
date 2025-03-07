@@ -4,7 +4,7 @@
 <!-- Animated Name Banner -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Sreejith+S+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE+%7C+Tech+Innovator+%F0%9F%9A%80;National+Hackathon+Champion+%F0%9F%8F%86;Crafting+Digital+Dreams+%E2%9C%A8;Welcome+to+my+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hello+World!+I'm+Sreejith+S+%F0%9F%91%8B;Game+Dev+%F0%9F%8E%AE+%7C+Tech+Innovator+%F0%9F%9A%80;National+Hackathon+Champion+%F0%9F%8F%86;Crafting+Digital+Dreams+%E2%9C%A8;Welcome+to+my+Universe+%F0%9F%8C%8C" alt="Typing SVG" />
     </a>
 </div>
 
