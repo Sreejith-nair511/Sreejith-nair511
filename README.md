@@ -35,7 +35,7 @@
             <h3>👩‍💻 GirlScript Contributor</h3>
             <img src="https://img.shields.io/badge/GirlScript-Summer_of_Code-FF6B6B?style=for-the-badge" />
             <p>Extended Program Contributor</p>
-            <p>Oct 2024 - Present</p>
+            <p>Oct 2024 - Decemeber 2024</p>
         </td>
     </tr>
 </table>
