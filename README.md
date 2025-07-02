@@ -211,18 +211,19 @@
 
 ---
 
-## 🎮 **FEATURED GAME REPOSITORIES**
+## 🎮 **FEATURED REPOSITORIES**
 
 <div align="center">
 
 <!-- Repository Showcase -->
-<a href="https://github.com/Sreejith-nair511/steam-rpg-adventure">
+<a href="https://github.com/Sreejith-nair511/HORROR_ANALOG_SITE">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=steam-rpg-adventure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
 </a>
-<a href="https://github.com/Sreejith-nair511/ai-game-companion">
+<a href="https://github.com/Sreejith-nair511/TRELLISCustom
+">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=ai-game-companion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
 </a>
-<a href="https://github.com/Sreejith-nair511/zree-games-engine">
+<a href="https://github.com/Sreejith-nair511/TRELLISCustom">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=zree-games-engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
 </a>
 <a href="https://github.com/Sreejith-nair511/alstudio-platform">
