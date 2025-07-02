@@ -238,13 +238,7 @@
 
 ---
 
-## 🐍 **Contribution Snake**
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-
-</div>
 
 ---
 
