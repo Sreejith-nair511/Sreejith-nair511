@@ -215,41 +215,31 @@
 
 <div align="center">
 
-## 🎮 Game Projects
+<!-- First 3 Repositories -->
+<a href="https://github.com/Sreejith-nair511/HORROR_ANALOG_SITE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=HORROR_ANALOG_SITE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/Sreejith-nair511/HORROR_ANALOG_SITE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=HORROR_ANALOG_SITE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-  </a>
+<a href="https://github.com/Sreejith-nair511/TRELLISCustom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+</a>
 
-  <a href="https://github.com/Sreejith-nair511/BPHC_HACKATHON">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=BPHC_HACKATHON&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-  </a>
+<a href="https://github.com/Sreejith-nair511/TRELLISCustom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+</a>
 
-  <a href="https://github.com/Sreejith-nair511/Jss_hacker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Jss_hacker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-  </a>
-</p>
+<!-- New 3 Repositories -->
+<a href="https://github.com/Sreejith-nair511/BPHC_HACKATHON">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=BPHC_HACKATHON&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+</a>
 
----
+<a href="https://github.com/Sreejith-nair511/Google_aidayfor-google">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Google_aidayfor-google&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+</a>
 
-## 🤖 AI + Tooling Projects
-
-<p align="center">
-  <a href="https://github.com/Sreejith-nair511/TRELLISCustom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-  </a>
-
-  <a href="https://github.com/Sreejith-nair511/Google_aidayfor-google">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Google_aidayfor-google&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-  </a>
-
-  <a href="https://github.com/Sreejith-nair511/steam-rpg-adventure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=steam-rpg-adventure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-  </a>
-</p>
-
-
+<a href="https://github.com/Sreejith-nair511/Jss_hacker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Jss_hacker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+</a>
 
 
 </div>
