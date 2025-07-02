@@ -217,18 +217,18 @@
 
 <!-- Repository Showcase -->
 <a href="https://github.com/Sreejith-nair511/HORROR_ANALOG_SITE">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=steam-rpg-adventure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=HORROR_ANALOG_SITE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
 </a>
-<a href="https://github.com/Sreejith-nair511/TRELLISCustom
-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=ai-game-companion&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-</a>
+
 <a href="https://github.com/Sreejith-nair511/TRELLISCustom">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=zree-games-engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
 </a>
-<a href="https://github.com/Sreejith-nair511/alstudio-platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=alstudio-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
+
+<a href="https://github.com/Sreejith-nair511/TRELLISCustom">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
 </a>
+
+
 
 </div>
 
