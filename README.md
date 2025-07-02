@@ -29,6 +29,9 @@
 
 <div align="center">
 
+<!-- Visitor Counter with Style -->
+<img src="https://komarev.com/ghpvc/?username=Sreejith-nair511&color=FF6B6B&style=for-the-badge&label=Profile+Views&base=1000"/>
+
 <!-- Elite Achievement Showcase -->
 <table>
 <tr>
@@ -414,8 +417,7 @@ Others       52 mins         █░░░░░░░░░░░░░░░░
 ### 🌈 **Current Vision**
 *"Building a world where technology serves humanity, games inspire generations, and AI empowers creativity. Every line of code I write is a step toward making digital dreams a reality."*
 
-<!-- Visitor Counter with Style -->
-<img src="https://komarev.com/ghpvc/?username=Sreejith-nair511&color=FF6B6B&style=for-the-badge&label=Profile+Views&base=1000"/>
+
 
 </div>
 
