@@ -1,4 +1,4 @@
-# 🎮 Sreejith S - Game Developer & AI Engineer Extraordinaire
+# 🎮 Sreejith S - Game Developer & AI Engineer enthusiast
 
 <div align="center">
 
@@ -57,7 +57,7 @@
 ```
 🚀 ROLE: Extended Program Contributor
 ⏰ DURATION: Oct - Dec 2024
-💻 CONTRIBUTIONS: 100+ Pull Requests
+💻 CONTRIBUTIONS: High Pull Requests in the game repo of gamedev
 🌟 PROJECTS: 15+ Open Source Repositories
 📈 IMPACT: Community Growth & Mentorship
 🏅 RECOGNITION: Top Contributor Badge
@@ -89,15 +89,6 @@
 </a>
 </td>
 
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
-<h3>💻 ALStudio</h3>
-<p><b>Software Solutions Hub</b></p>
-<p>Transforming ideas into reality</p>
-<a href="https://alstudio.xyz">
-<img src="https://img.shields.io/badge/🚀_EXPLORE-2ED573?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
 
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120">
@@ -107,15 +98,7 @@
 <img src="https://img.shields.io/badge/🌌_SPACE_TECH-5352ED?style=for-the-badge&logo=nasa&logoColor=white"/>
 </td>
 
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120">
-<h3>🎵 Game Curator</h3>
-<p><b>Music & Recommendations</b></p>
-<p>Curating perfect vibes</p>
-<a href="https://open.spotify.com/playlist/1wRv6tl1pfsvSCsrKNx6E7?si=7VpmbwiqSaC0nyXVh-tEoA">
-<img src="https://img.shields.io/badge/🎧_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-</a>
-</td>
+
 </tr>
 </table>
 
