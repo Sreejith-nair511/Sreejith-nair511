@@ -188,7 +188,7 @@
 🏆 Hackathon Victories        ████████████████████████ 5+ Wins
 💻 LeetCode Problems          ████████████████████████ 500+ Solved  
 ⭐ GitHub Repositories        ████████████████████████ 75+ Projects
-🎮 Games Published            ████████████████████████ 12+ Titles
+🎮 Games Published            ████████████████████████ 25+ Titles
 🤝 Open Source Contributions  ████████████████████████ 200+ PRs
 📊 Coding Rating              ████████████████████████ 2100+ Peak
 ```
@@ -214,14 +214,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
 </a>
 
-<!-- New 3 Repositories -->
-<a href="https://github.com/Sreejith-nair511/BPHC_HACKATHON">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=BPHC_HACKATHON&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-</a>
 
-<a href="https://github.com/Sreejith-nair511/Google_aidayfor-google">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Google_aidayfor-google&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-</a>
 
 <a href="https://github.com/Sreejith-nair511/Jss_hacker">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Jss_hacker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
@@ -232,7 +225,7 @@
 
 ---
 
-## 🎵 **GAME & MUSIC CURATOR**
+## 🎵 **Fun zone **
 
 <div align="center">
 
@@ -267,7 +260,7 @@
 </tr>
 </table>
 
-### 🎧 **Curated Coding Playlist**
+### 🎧 **Curated Coding Playlist(try it out)**
 <a href="https://open.spotify.com/playlist/1wRv6tl1pfsvSCsrKNx6E7?si=7VpmbwiqSaC0nyXVh-tEoA">
 <img src="https://img.shields.io/badge/🎵_Perfect_Coding_Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414"/>
 </a>
@@ -314,9 +307,7 @@
 <a href="https://zreegames.itch.io">
 <img src="https://img.shields.io/badge/🎮_Games-Play_Now-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
 </a>
-<a href="https://discord.gg/zreegames">
-<img src="https://img.shields.io/badge/💬_Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+
 
 </div>
 
@@ -335,11 +326,11 @@
 ### 📊 **Weekly Development Activity**
 <!--START_SECTION:waka-->
 ```text
-Python       8 hrs 32 mins   ████████████░░░░░░░░░   45.2%
-JavaScript   4 hrs 15 mins   ██████░░░░░░░░░░░░░░░   22.5%
-C#           3 hrs 28 mins   ████░░░░░░░░░░░░░░░░░   18.4%
-Unity        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░    9.3%
-Others       52 mins         █░░░░░░░░░░░░░░░░░░░░    4.6%
+Python       10 hrs 32 mins  ████████████░░░░░░░░░   45.2%
+JavaScript   7 hrs 15 mins   ██████░░░░░░░░░░░░░░░   22.5%
+C#           5 hrs 28 mins   ████░░░░░░░░░░░░░░░░░   18.4%
+Unity        2 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░    9.3%
+Others       3 hr52 mins     █░░░░░░░░░░░░░░░░░░░░    4.6%
 ```
 <!--END_SECTION:waka-->
 
