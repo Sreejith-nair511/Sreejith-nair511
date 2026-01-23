@@ -1,336 +1,334 @@
-# 🎮 Sreejith S - Game Developer & AI Engineer enthusiast
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Sreejith%20S&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Game%20Developer%20%7C%20AI%20Engineer%20%7C%20National%20Champion&descAlignY=55&descSize=18)
+
+</div>
 
 <div align="center">
 
-<!-- Ultra Dynamic Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,7,9,12&height=250&section=header&text=SREEJITH%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🎮%20Game%20Developer%20%7C%20🤖%20AI%20Engineer%20%7C%20🏆%20National%20Champion&descAlignY=65&descSize=20"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Epic+Gaming+Experiences;AI+%2B+Game+Development+Enthusiast;National+Hackathon+Champion+2024;Open+Source+Contributor;Space+Tech+Innovator)](https://git.io/typing-svg)
 
-<!-- Multi-Line Advanced Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe!;%F0%9F%8E%AE+Crafting+Epic+Game+Worlds+%26+AI+Magic;%F0%9F%8F%86+E-MINDS+National+Hackathon+Champion+2024;%E2%9A%A1+Turning+Dreams+into+Interactive+Reality;%F0%9F%9A%80+Let's+Build+the+Future+Together!" alt="Typing SVG" />
-</a>
-
-<!-- Spectacular Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<!-- Quick Stats Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-Game_Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_Specialty-AI_Engineering-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/🏆_Status-Champion-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
-  <img src="https://img.shields.io/badge/🔥_Passion-Innovation-FF9500?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Sreejith-nair511&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🌟 **CHAMPION ACHIEVEMENTS HALL**
+## 💫 About Me
 
-<div align="center">
+I'm a **game developer** and **AI engineer** passionate about creating immersive interactive experiences that blend cutting-edge technology with compelling narratives. From indie games to space technology, I thrive on challenging projects that push creative and technical boundaries.
 
-<!-- Visitor Counter with Style -->
-<img src="https://komarev.com/ghpvc/?username=Sreejith-nair511&color=FF6B6B&style=for-the-badge&label=Profile+Views&base=1000"/>
+```javascript
+const sreejith = {
+    location: "Bengaluru, India 🇮🇳",
+    education: "GSSS Institute of Engineering",
+    role: "Founder @ ZreeGames Studio",
+    currentMission: "Building next-gen RPG with AI-driven gameplay",
+    
+    expertise: {
+        gameEngines: ["Unity 3D", "Unreal Engine 5"],
+        languages: ["C#", "C++", "Python", "JavaScript"],
+        aiml: ["TensorFlow", "PyTorch", "OpenCV"],
+        specialization: "Procedural Generation + AI NPCs"
+    },
+    
+    achievements: {
+        🥇: "E-MINDS National Hackathon Champion (500+ teams)",
+        🌸: "GirlScript Summer of Code - Elite Contributor",
+        🎮: "25+ Games Published",
+        🛸: "ISRO Space Tech Collaborator"
+    },
+    
+    motto: "Every line of code tells a story"
+};
+```
 
-<!-- Elite Achievement Showcase -->
+---
+
+## 🏆 Major Achievements
+
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<td width="50%" valign="top">
 
-### 🥇 **E-MINDS HACKATHON CHAMPION**
-```
-🏆 ACHIEVEMENT: National 1st Place Winner
-⚡ COMPETITION: 28-Hour Coding Marathon
-🏫 INSTITUTE: GSSS Institute of Engineering
-📅 DATE: December 2024
-💡 CATEGORY: Tech Innovation Excellence
-🎯 PARTICIPANTS: 500+ Teams Nationwide
-```
-<img src="https://img.shields.io/badge/CHAMPION-GOLD_MEDAL-FFD700?style=for-the-badge&logo=medal&logoColor=black"/>
+### 🥇 E-MINDS National Hackathon Winner
+**December 2024**
+
+- **Rank:** 1st Place / 500+ teams nationwide
+- **Event:** 28-hour intensive coding marathon
+- **Category:** Tech Innovation Excellence
+- **Institute:** GSSS Institute of Engineering
+- **Impact:** Developed innovative solution with real-world applications
 
 </td>
-<td width="50%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<td width="50%" valign="top">
 
-### 🌸 **GIRLSCRIPT SUMMER OF CODE**
-```
-🚀 ROLE: Extended Program Contributor
-⏰ DURATION: Oct - Dec 2024
-💻 CONTRIBUTIONS: High Pull Requests in the game repo of gamedev
-🌟 PROJECTS: 15+ Open Source Repositories
-📈 IMPACT: Community Growth & Mentorship
-🏅 RECOGNITION: Top Contributor Badge
-```
-<img src="https://img.shields.io/badge/ELITE-CONTRIBUTOR-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
+### 🌸 GirlScript Summer of Code
+**October - December 2024**
+
+- **Role:** Extended Program Contributor
+- **Contributions:** 200+ pull requests merged
+- **Projects:** 15+ open-source game dev repositories
+- **Recognition:** Elite Contributor Badge
+- **Focus:** Game mechanics & engine optimization
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 🚀 **FOUNDER & VISIONARY EMPIRE**
+## 🚀 Current Projects
 
-<div align="center">
+### 🎮 ZreeGames Studio
+**Founder & Lead Developer** | [Visit Studio](https://zreegames.itch.io)
 
-<!-- Enhanced Company Showcase -->
+Independent game studio crafting unique gaming experiences with innovative mechanics and immersive storytelling.
+
+**Portfolio Highlights:**
+- 📊 **25+ games** published across platforms
+- 🌍 **Thousands of players** worldwide
+- 💎 Focused on **indie innovation** and **player experience**
+
+### 🔥 Active Development
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
-<h3>🎮 ZreeGames</h3>
-<p><b>Innovative Gaming Studio</b></p>
-<p>Epic adventures & immersive worlds</p>
-<a href="https://zreegames.itch.io">
-<img src="https://img.shields.io/badge/🎯_PLAY_GAMES-FF4757?style=for-the-badge&logo=itch.io&logoColor=white"/>
-</a>
+<td width="33%" align="center">
+
+**🗡️ Steam RPG Project**
+
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat-square)
+
+Epic fantasy RPG featuring:
+- AI-driven NPC behaviors
+- Dynamic weather systems
+- Procedural quest generation
+- Immersive narrative design
+
+**Tech:** Unity, C#, ML-Agents
+
 </td>
+<td width="33%" align="center">
 
+**👻 Horror Analog**
 
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120">
-<h3>🛸 ISRO Projects</h3>
-<p><b>Space Tech Innovation</b></p>
-<p>Reaching beyond the stars</p>
-<img src="https://img.shields.io/badge/🌌_SPACE_TECH-5352ED?style=for-the-badge&logo=nasa&logoColor=white"/>
+![Status](https://img.shields.io/badge/Status-Live-success?style=flat-square)
+
+Psychological horror experience:
+- Analog horror aesthetics
+- Environmental storytelling
+- Atmospheric sound design
+- Player choice consequences
+
+**Tech:** Unity, WebGL
+
 </td>
+<td width="33%" align="center">
 
+**🤖 AI Game Companion**
 
-</tr>
-</table>
+![Status](https://img.shields.io/badge/Status-Research-blue?style=flat-square)
 
-</div>
+Next-gen AI for games:
+- Natural language processing
+- Adaptive difficulty systems
+- Player behavior prediction
+- Personalized experiences
 
----
+**Tech:** Python, TensorFlow
 
-## 📊 **ELITE PERFORMANCE DASHBOARD**
-
-<div align="center">
-
-<!-- Master Stats Display -->
-<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sreejith-nair511&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B&custom_title=Sreejith's%20GitHub%20Mastery"/>
-
-<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sreejith-nair511&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&custom_title=Code%20Arsenal"/>
-
-<!-- Enhanced Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=Sreejith-nair511&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FFF" alt="GitHub Streak"/>
-
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejith-nair511&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&custom_title=Contribution%20Battlefield"/>
-
-</div>
-
----
-
-## 🎯 **ACTIVE MISSIONS & PROJECTS**
-
-<div align="center">
-
-<!-- Mission Control Center -->
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<h4>🎮 Steam RPG Empire</h4>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-FF9500?style=for-the-badge&logo=steam&logoColor=white"/>
-<p>Epic RPG with immersive storylines</p>
-<p><b>Features:</b> AI NPCs, Dynamic Weather</p>
-</td>
-
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<h4>🚀 ISRO Space Mission</h4>
-<img src="https://img.shields.io/badge/STATUS-COLLABORATING-00D9FF?style=for-the-badge&logo=nasa&logoColor=white"/>
-<p>Satellite tracking & space tech</p>
-<p><b>Focus:</b> Real-time data processing</p>
-</td>
-
-<td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7cd2.gif" width="100">
-<h4>🤖 AI Game Companion</h4>
-<img src="https://img.shields.io/badge/STATUS-RESEARCHING-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-<p>Next-gen AI game assistants</p>
-<p><b>Tech:</b> Machine Learning & NLP</p>
 </td>
 </tr>
 </table>
 
+### 🛸 ISRO Space Technology
+
+Contributing to space technology initiatives:
+- 📡 Satellite tracking systems
+- 🔄 Real-time telemetry processing
+- 🌌 Mission support applications
+- 📊 Data visualization tools
+
+---
+
+## 💻 Technical Arsenal
+
+<div align="center">
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Web & Mobile Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 ---
 
-## ⚡ **ULTIMATE TECH ARSENAL**
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🔥 **Master Technologies**
-<img src="https://skillicons.dev/icons?i=unity,unreal,python,js,nodejs,react,flask,tensorflow,pytorch,opencv&theme=dark&perline=5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sreejith-nair511&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9"/>
 
-### 🎯 **Game Development Stack**
-<img src="https://skillicons.dev/icons?i=cs,cpp,blender,photoshop,figma&theme=dark&perline=5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreejith-nair511&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
 
-### 🛠️ **Development Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,mysql,mongodb,firebase,vercel,netlify&theme=dark&perline=5"/>
+</div>
 
-### 🚀 **Specialized Expertise**
-<p>
-<img src="https://img.shields.io/badge/Game_Engine-Unity_3D_•_Unreal_5-FF6B6B?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI_&_ML-TensorFlow_•_PyTorch_•_OpenAI-FF9500?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mobile_Dev-Flutter_•_React_Native-00D9FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3_&_Blockchain-Solidity_•_Web3.js-5352ED?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</p>
+<div align="center">
 
-### 📈 **Championship Metrics**
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sreejith-nair511&theme=react&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreejith-nair511&theme=react-dark&hide_border=true&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff)
+
+</div>
+
+---
+
+## 📈 Development Statistics
+
+<div align="center">
+
+| Category | Achievement | Progress |
+|:---------|:------------|:---------|
+| 🏆 Hackathon Wins | 5+ Victories | ████████████████░░░░ 80% |
+| 💻 LeetCode | 500+ Problems | ████████████████████ 100% |
+| ⭐ GitHub Projects | 75+ Repositories | ███████████████░░░░░ 75% |
+| 🎮 Published Games | 25+ Titles | ██████████████░░░░░░ 70% |
+| 🤝 Open Source | 200+ Contributions | ████████████████████ 100% |
+| 📊 Peak Rating | 2100+ | ████████████████░░░░ 85% |
+
+</div>
+
+---
+
+## 🎯 Featured Repositories
+
+<div align="center">
+
+[![Horror Analog Site](https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=HORROR_ANALOG_SITE&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9)](https://github.com/Sreejith-nair511/HORROR_ANALOG_SITE)
+
+[![TRELLIS Custom](https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9)](https://github.com/Sreejith-nair511/TRELLISCustom)
+
+[![JSS Hacker](https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Jss_hacker&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9)](https://github.com/Sreejith-nair511/Jss_hacker)
+
+</div>
+
+---
+
+## 🎮 Game Inspirations & Recommendations
+
+<details>
+<summary><b>Click to explore my favorite games across genres</b></summary>
+
+<br>
+
+| Genre | Recommended Games | What I Love |
+|:------|:------------------|:------------|
+| 🔥 **Indie Masterpieces** | Hollow Knight, Celeste, Hades | Tight gameplay, emotional storytelling |
+| 🎯 **Strategy** | Civilization VI, Age of Empires IV | Deep systems, replayability |
+| 🚀 **Sci-Fi Epics** | Mass Effect Trilogy, Cyberpunk 2077 | World-building, player choice |
+| 🏆 **Competitive** | Valorant, CS2, Rocket League | Skill ceiling, teamwork |
+| 🎲 **Retro Classics** | Super Mario Bros, Zelda, Pokemon | Timeless design, nostalgia |
+| 🧩 **Puzzle Games** | Portal 2, The Witness | Creative mechanics, "aha!" moments |
+
+</details>
+
+### 🎧 Coding Soundtrack
+
+[![Spotify Playlist](https://img.shields.io/badge/🎵_My_Coding_Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1wRv6tl1pfsvSCsrKNx6E7?si=7VpmbwiqSaC0nyXVh-tEoA)
+
+*Curated beats for maximum focus and flow state during development sessions*
+
+---
+
+## 🌐 Portfolio & Online Presence
+
+<div align="center">
+
+### 🎨 My Digital Spaces
+
+[![Interactive Portfolio](https://img.shields.io/badge/🎮_Interactive_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://sreejith-renu.vercel.app/)
+[![Tech Showcase](https://img.shields.io/badge/💼_Tech_Showcase-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sreejith-tech.vercel.app/)
+[![ZreeGames](https://img.shields.io/badge/🎯_Play_My_Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://zreegames.itch.io)
+
+### 🤝 Let's Connect
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreejith0511@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreejith-s-b232092a9)
+[![GitHub](https://img.shields.io/badge/💻_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreejith-nair511)
+
+</div>
+
+---
+
+## 💭 Philosophy & Vision
+
+<div align="center">
+
+> ### *"Games are experiences that shape minds, AI enhances creativity, and every bug is a puzzle waiting to be solved"*
+
+</div>
+
+**Core Principles:**
+
+```yaml
+Innovation: Constantly pushing boundaries of what's possible in interactive media
+Quality: Every project deserves attention to detail and polish
+Community: Open-source contribution and knowledge sharing matter
+Learning: Technology evolves; staying curious is essential
+Impact: Building experiences that inspire and entertain
 ```
-🏆 Hackathon Victories        ████████████████████████ 5+ Wins
-💻 LeetCode Problems          ████████████████████████ 500+ Solved  
-⭐ GitHub Repositories        ████████████████████████ 75+ Projects
-🎮 Games Published            ████████████████████████ 25+ Titles
-🤝 Open Source Contributions  ████████████████████████ 200+ PRs
-📊 Coding Rating              ████████████████████████ 2100+ Peak
-```
 
-</div>
+**2025 Vision:**
 
----
-
-## 🎮 **FEATURED REPOSITORIES**
-
-<div align="center">
-
-<!-- First 3 Repositories -->
-<a href="https://github.com/Sreejith-nair511/HORROR_ANALOG_SITE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=HORROR_ANALOG_SITE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-</a>
-
-<a href="https://github.com/Sreejith-nair511/TRELLISCustom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-</a>
-
-<a href="https://github.com/Sreejith-nair511/TRELLISCustom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=TRELLISCustom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-</a>
-
-
-
-<a href="https://github.com/Sreejith-nair511/Jss_hacker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sreejith-nair511&repo=Jss_hacker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFF&icon_color=FF6B6B"/>
-</a>
-
-
-</div>
+🎯 Launch commercial RPG on Steam with 50k+ wishlists  
+🤖 Publish research on AI-driven procedural narrative generation  
+🌍 Expand ZreeGames to 50+ published titles  
+🚀 Contribute to major space tech initiatives  
+🏆 Win international game jam competitions  
 
 ---
 
-## 🎵 **Fun zone **
+## 🔥 Contribution Activity
 
 <div align="center">
 
-### 🎮 **Game Recommendations**
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-<h4>🔥 Indie Gems</h4>
-<p>Hollow Knight, Celeste, Hades</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60">
-<h4>🎯 Strategy Masters</h4>
-<p>Civilization VI, Age of Empires</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-<h4>🚀 Sci-Fi Epics</h4>
-<p>Mass Effect, Cyberpunk 2077</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7cd2.gif" width="60">
-<h4>🏆 Competitive</h4>
-<p>Valorant, CS2, Rocket League</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-<h4>🎲 Retro Classics</h4>
-<p>Super Mario, Zelda, Pokemon</p>
-</td>
-</tr>
-</table>
+![Contribution Graph](https://ghchart.rshah.org/3b82f6/Sreejith-nair511)
 
-### 🎧 **Curated Coding Playlist(try it out)**
-<a href="https://open.spotify.com/playlist/1wRv6tl1pfsvSCsrKNx6E7?si=7VpmbwiqSaC0nyXVh-tEoA">
-<img src="https://img.shields.io/badge/🎵_Perfect_Coding_Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414"/>
-</a>
+### 📅 Coding Consistency
 
-*"The perfect soundtrack for epic coding sessions and game development marathons!"*
-
-</div>
-
----
-
-## 🌐 **PORTFOLIO & CONNECT**
-
-<div align="center">
-
-### 🎨 **Featured Portfolios**
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<h3>🎮 Interactive Portfolio</h3>
-<p>Game-style navigation & animations</p>
-<a href="https://sreejith-renu.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_EXPLORE_WORLD-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<h3>💼 Professional Hub</h3>
-<p>Technical showcase & achievements</p>
-<a href="https://sreejith-tech.vercel.app/">
-<img src="https://img.shields.io/badge/🎯_VIEW_TECH-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
-
-### 📫 **Let's Connect & Collaborate**
-<a href="mailto:sreejith0511@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Let's_Chat-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/sreejith-s-b232092a9">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://zreegames.itch.io">
-<img src="https://img.shields.io/badge/🎮_Games-Play_Now-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
-</a>
-
-
-</div>
-
----
-
-## 🐍 **CONTRIBUTION MASTERY**
-
-<div align="center">
-
-<!-- Enhanced Snake Game -->
-<img src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
-
-<!-- Contribution Heatmap -->
-<img src="https://ghchart.rshah.org/FF6B6B/Sreejith-nair511" alt="Contribution Graph"/>
-
-### 📊 **Weekly Development Activity**
 <!--START_SECTION:waka-->
 ```text
-Python       10 hrs 32 mins  ████████████░░░░░░░░░   45.2%
-JavaScript   7 hrs 15 mins   ██████░░░░░░░░░░░░░░░   22.5%
-C#           5 hrs 28 mins   ████░░░░░░░░░░░░░░░░░   18.4%
-Unity        2 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░    9.3%
-Others       3 hr52 mins     █░░░░░░░░░░░░░░░░░░░░    4.6%
+Python       12 hrs 45 mins  ███████████░░░░░░░░░░   47.8%
+C#           8 hrs 30 mins   ████████░░░░░░░░░░░░░   31.9%
+JavaScript   3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░   12.2%
+Unity        1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░    6.6%
+Other        25 mins         █░░░░░░░░░░░░░░░░░░░░    1.5%
 ```
 <!--END_SECTION:waka-->
 
@@ -338,97 +336,52 @@ Others       3 hr52 mins     █░░░░░░░░░░░░░░░░
 
 ---
 
-## 🏆 **AWARDS & RECOGNITIONS**
+## 🎖️ Recognition & Awards
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
-<h4>🥇 National Champion</h4>
-<p>E-MINDS Hackathon 2024</p>
-<p>1st Place among 500+ teams</p>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80">
-<h4>🌟 Top Contributor</h4>
-<p>GirlScript Summer of Code</p>
-<p>100+ successful PRs</p>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80">
-<h4>🎮 Game Publisher</h4>
-<p>ZreeGames Studio</p>
-<p>12+ games published</p>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80">
-<h4>🚀 ISRO Collaborator</h4>
-<p>Space Tech Projects</p>
-<p>Satellite systems development</p>
-</td>
-</tr>
-</table>
+| Award | Organization | Year | Achievement |
+|:------|:-------------|:-----|:------------|
+| 🥇 **National Champion** | E-MINDS Hackathon | 2024 | 1st Place / 500+ teams |
+| 🌟 **Elite Contributor** | GirlScript Summer of Code | 2024 | 200+ successful PRs |
+| 🎮 **Indie Publisher** | ZreeGames Studio | 2024 | 25+ games published |
+| 🛸 **Tech Collaborator** | ISRO Projects | 2024 | Space systems development |
 
 </div>
 
 ---
 
-## 💭 **PHILOSOPHY & VISION**
+## 📚 Currently Learning
 
-<div align="center">
-
-### 🎯 **Core Values**
-```
-🎮 "Games are not just entertainment, they're experiences that shape minds"
-🤖 "AI should enhance human creativity, not replace it"  
-🏆 "Excellence is not a destination, it's a continuous journey"
-🚀 "Innovation happens when passion meets persistence"
-🌟 "Every bug is a puzzle waiting to be solved"
-```
-
-### 🌈 **Current Vision**
-*"Building a world where technology serves humanity, games inspire generations, and AI empowers creativity. Every line of code I write is a step toward making digital dreams a reality."*
-
-
-
-</div>
+- 🧠 Advanced neural networks for game AI
+- 🎨 Procedural generation algorithms
+- 🌐 WebGPU for browser-based game engines
+- 📊 Data-driven game design analytics
+- 🔊 Adaptive audio systems
 
 ---
 
 <div align="center">
 
-<!-- Epic Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,7,9,12&height=180&section=footer&animation=fadeIn"/>
+## 💬 Let's Build Something Amazing
 
-### 💫 **"Code. Create. Conquer. Repeat."**
+**I'm always open to:**
+- 🎮 Game development collaborations
+- 🤖 AI/ML research projects
+- 🌟 Open-source contributions
+- 💼 Freelance opportunities
+- 🎓 Mentoring aspiring developers
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
+![Collaboration Open](https://img.shields.io/badge/💼_Collaboration-Open-00D9FF?style=for-the-badge)
+![Available for Projects](https://img.shields.io/badge/🎯_Status-Available-success?style=for-the-badge)
+![Innovation Always On](https://img.shields.io/badge/🚀_Innovation-Always_On-FF9500?style=for-the-badge)
 
-**🎮 Ready Player One? Let's build the future together! 🚀**
+---
 
-<!-- Social Proof -->
-<img src="https://img.shields.io/badge/💼_Collaboration-Open-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎯_Status-Available_for_Projects-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀_Innovation-Always_On-FF9500?style=for-the-badge"/>
+### ⚡ "Code. Create. Conquer. Repeat."
+
+*Ready to build the future of interactive entertainment together? Let's connect!*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
-
-<!-- Hidden Comments for GitHub Features -->
-<!-- 
-To set up the snake game animation:
-1. Go to repository settings
-2. Enable GitHub Actions
-3. Create .github/workflows/snake.yml
-4. Add the snake generation workflow
-5. The snake will update automatically with your contributions!
-
-For Spotify integration:
-- The playlist link directs to your curated coding music
-- Consider creating a "Now Playing" widget for real-time updates
-
-Profile views counter will automatically track unique visitors
-GitHub stats update automatically every 24 hours
-Contribution graphs reflect real-time activity
--->
