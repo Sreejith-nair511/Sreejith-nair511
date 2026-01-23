@@ -68,7 +68,7 @@
 
 ---
 
-## 🚀 FOUNDER & VISIONARY EMPIRE
+##  FOUNDER & STARTUP
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
 
-### 🎮 **ZreeGames Studio**
+### 🎮 **JuGaad.exe**
 
 **Innovative Gaming Studio**
 
@@ -97,7 +97,7 @@ Epic adventures & immersive worlds
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="120">
 
-### 🛸 **ISRO Projects**
+###  **ISRO Projects**
 
 **Space Tech Innovation**
 
@@ -105,11 +105,11 @@ Reaching beyond the stars
 
 <img src="https://img.shields.io/badge/🌌_SPACE_TECH-5352ED?style=for-the-badge&logo=nasa&logoColor=white"/>
 
-**🚀 Key Contributions:**
-- 📡 **Satellite Tracking Systems**
-- 🔄 **Real-time Data Processing**
-- 🌌 **Mission Support Tools**
-- 📊 **Analytics & Visualization**
+**Key Contributions:**
+-  **Satellite Tracking Systems**
+-  **Real-time Data Processing**
+- **Mission Support Tools**
+-  **Analytics & Visualization**
 
 </td>
 </tr>
@@ -119,7 +119,7 @@ Reaching beyond the stars
 
 ---
 
-## 📊 ELITE PERFORMANCE DASHBOARD
+##   PERFORMANCE DASHBOARD
 
 <div align="center">
 
