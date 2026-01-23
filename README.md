@@ -9,17 +9,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-Game_Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤖_Specialty-AI_Engineering-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/🏆_Status-Champion-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
-  <img src="https://img.shields.io/badge/💡_Passion-Innovation-FF9500?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/_Focus-Game_Development-FF6B6B?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/_Specialty-AI_Engineering-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/_Status-Champion-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
+  <img src="https://img.shields.io/badge/_Passion-Innovation-FF9500?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-## 🌟 CHAMPION ACHIEVEMENTS HALL
+##  CHAMPION ACHIEVEMENTS HALL
 
 <div align="center">
 
@@ -30,15 +30,15 @@
 <td width="50%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-### 🥇 **E-MINDS HACKATHON CHAMPION**
+###  **E-MINDS HACKATHON CHAMPION**
 
 ```yaml
-🏆 ACHIEVEMENT: National 1st Place Winner
-⚡ COMPETITION: 28-Hour Coding Marathon
-🏫 INSTITUTE: GSSS Institute of Engineering
-📅 DATE: December 2024
-💡 CATEGORY: Tech Innovation Excellence
-🎯 PARTICIPANTS: 500+ Teams Nationwide
+ ACHIEVEMENT: National 1st Place Winner
+ COMPETITION: 28-Hour Coding Marathon
+ INSTITUTE: GSSS Institute of Engineering
+ DATE: December 2024
+ CATEGORY: Tech Innovation Excellence
+ PARTICIPANTS: 500+ Teams Nationwide
 ```
 
 <img src="https://img.shields.io/badge/CHAMPION-GOLD_MEDAL-FFD700?style=for-the-badge&logo=medal&logoColor=black"/>
@@ -47,15 +47,15 @@
 <td width="50%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-### 🌸 **GIRLSCRIPT SUMMER OF CODE**
+###  **GIRLSCRIPT SUMMER OF CODE**
 
 ```yaml
-🚀 ROLE: Extended Program Contributor
-⏰ DURATION: Oct - Dec 2024
-💻 CONTRIBUTIONS: High Pull Requests in GameDev
-🌟 PROJECTS: 15+ Open Source Repositories
-📈 IMPACT: Community Growth & Mentorship
-🏅 RECOGNITION: Top Contributor Badge
+ ROLE: Extended Program Contributor
+ DURATION: Oct - Dec 2024
+ CONTRIBUTIONS: High Pull Requests in GameDev
+ PROJECTS: 15+ Open Source Repositories
+ IMPACT: Community Growth & Mentorship
+ RECOGNITION: Top Contributor Badge
 ```
 
 <img src="https://img.shields.io/badge/ELITE-CONTRIBUTOR-FF69B4?style=for-the-badge&logo=git&logoColor=white"/>
@@ -87,11 +87,11 @@ Epic adventures & immersive worlds
 <img src="https://img.shields.io/badge/🎯_PLAY_GAMES-FF4757?style=for-the-badge&logo=itch.io&logoColor=white"/>
 </a>
 
-**📊 Studio Statistics:**
-- 🎮 **25+ Published Games**
-- 🌍 **Thousands of Active Players**
-- ⭐ **12+ Featured Titles**
-- 🏆 **Multiple Game Awards**
+**Studio Statistics:**
+-  **25+ Published Games**
+-  **Thousands of Active Players**
+-  **12+ Featured Titles**
+-  **Multiple Game Awards**
 
 </td>
 <td align="center" width="50%">
