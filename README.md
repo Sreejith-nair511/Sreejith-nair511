@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,7,9,12&height=250&section=header&text=SREEJITH%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=🎮%20Game%20Developer%20|%20🤖%20AI%20Engineer%20"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=140&lines=👋+Welcome+to+my+Digital+Universe!;🎮+Crafting+Epic+Game+Worlds+%26+AI+Magic;🏆+E-MINDS+National+Hackathon+Champion+2024;⚡+Turning+Dreams+into+Interactive+Reality;🚀+Let's+Build+the+Future+Together!" alt="T" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=140&lines=👋+Welcome+to+my+Digital+Universe!;🎮+Crafting+Epic+Game+Worlds+%26+AI+Magic;🏆+E-MINDS+National+Hackathon+Champion+2024;⚡+Turning+Dreams+into+Interactive+Reality;🚀+Let's+Build+the+Future+Together!" alt="" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
