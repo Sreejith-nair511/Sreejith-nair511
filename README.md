@@ -135,7 +135,7 @@ Reaching beyond the stars
 
 ---
 
-## 🎯 ACTIVE MISSIONS & PROJECTS
+##  ACTIVE  PROJECTS
 
 <div align="center">
 
@@ -144,38 +144,38 @@ Reaching beyond the stars
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
-#### 🎮 **Steam RPG Empire**
+####  **Steam RPG Empire**
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-FF9500?style=for-the-badge&logo=steam&logoColor=white"/>
 
 Epic RPG with immersive storylines
 
-**✨ Core Features:**
-- 🤖 AI-Driven NPCs
-- 🌦️ Dynamic Weather System
-- 🗺️ Procedural Quest Generation
-- 📖 Rich Narrative Design
-- ⚔️ Advanced Combat Mechanics
+** Core Features:**
+-  AI-Driven NPCs
+-  Dynamic Weather System
+-  Procedural Quest Generation
+-  Rich Narrative Design
+-  Advanced Combat Mechanics
 
-**🛠️ Tech Stack:**
+** Tech Stack:**
 Unity 3D, C#, ML-Agents
 
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
-#### 🚀 **ISRO Space Mission**
+####  **ISRO Space Mission**
 
 <img src="https://img.shields.io/badge/STATUS-COLLABORATING-00D9FF?style=for-the-badge&logo=nasa&logoColor=white"/>
 
 Satellite tracking & space tech
 
-**🎯 Focus Areas:**
-- 📡 Satellite Tracking
-- 🔄 Real-time Processing
-- 🌌 Mission Support
-- 📊 Data Analytics
-- 🛰️ Telemetry Systems
+** Focus Areas:**
+-  Satellite Tracking
+-  Real-time Processing
+-  Mission Support
+-  Data Analytics
+-  Telemetry Systems
 
 **🛠️ Tech Stack:**
 Python, Data Science, APIs
@@ -184,20 +184,20 @@ Python, Data Science, APIs
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7cd2.gif" width="100">
 
-#### 🤖 **AI Game Companion**
+####  **AI Game Companion**
 
 <img src="https://img.shields.io/badge/STATUS-RESEARCHING-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
 
 Next-gen AI game assistants
 
-**💡 Innovations:**
-- 🗣️ Natural Language Processing
-- 🎯 Adaptive Difficulty
-- 📊 Player Behavior Analysis
-- ✨ Personalized Experiences
-- 🧠 Learning Algorithms
+** Innovations:**
+-  Natural Language Processing
+-  Adaptive Difficulty
+-  Player Behavior Analysis
+-  Personalized Experiences
+-  Learning Algorithms
 
-**🛠️ Tech Stack:**
+** Tech Stack:**
 TensorFlow, PyTorch, NLP
 
 </td>
@@ -208,11 +208,11 @@ TensorFlow, PyTorch, NLP
 
 ---
 
-## ⚡ ULTIMATE TECH ARSENAL
+##  ULTIMATE TECH ARSENAL
 
 <div align="center">
 
-### 💎 **Master Technologies**
+###  **Master Technologies**
 
 <img src="https://skillicons.dev/icons?i=unity,unreal,python,js,nodejs,react,flask,tensorflow,pytorch,opencv&theme=dark&perline=5"/>
 
