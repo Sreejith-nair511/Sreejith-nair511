@@ -10,7 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=FF6B6B&center=true&vCenter=true&width=860&height=60&lines=Building+immersive+game+worlds+from+scratch.;Engineering+AI+systems+that+learn+and+adapt.;Shipping+open+source+that+people+actually+use.;From+concept+to+playable+in+record+time.;Code+is+craft.+Games+are+experiences." alt="Typing SVG"/>
 
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 <!-- CORE IDENTITY BADGES -->
 <a href="https://github.com/Sreejith-nair511">
@@ -186,7 +186,7 @@ Stack │ Python · Data Science · REST APIs
 </td>
 <td align="center" width="50%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb9-7808-4fce-93be-e4b12a685c72.gif" width="110"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="110"/>
 
 #### GirlScript Summer of Code
 
@@ -243,7 +243,7 @@ Domain       : Tech Innovation & Applied AI
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900"/>
 
 **Game Engines & 3D**
 
@@ -267,18 +267,18 @@ Domain       : Tech Innovation & Applied AI
 
 <br/>
 
-**Depth Map**
+**Proficiency**
 
-```
-Unity 3D / C#    ████████████████████░░   Expert    · 3+ yrs, shipped 25+ titles
-Python           ███████████████████░░░   Expert    · AI, scripting, data pipelines
-C / C++          ████████████████░░░░░░   Advanced  · game systems, performance
-JavaScript / TS  ██████████████░░░░░░░░   Proficient· web, tooling, Node.js
-TensorFlow       █████████████░░░░░░░░░   Proficient· model training, deployment
-Blender          ████████░░░░░░░░░░░░░░   Working   · 3D modelling, rigging
-Unreal / BP      ███████░░░░░░░░░░░░░░░   Working   · prototyping, visual scripting
-Rust             ██░░░░░░░░░░░░░░░░░░░░   Learning  · systems programming
-```
+| Language / Tool | Level | Focus |
+|---|---|---|
+| Unity 3D / C# | ![Expert](https://img.shields.io/badge/Expert-90%25-FF6B6B?style=flat-square&labelColor=0D1117) | 3+ yrs · 25+ shipped titles |
+| Python | ![Expert](https://img.shields.io/badge/Expert-88%25-FF6B6B?style=flat-square&labelColor=0D1117) | AI · scripting · data pipelines |
+| C / C++ | ![Advanced](https://img.shields.io/badge/Advanced-75%25-FF9500?style=flat-square&labelColor=0D1117) | game systems · performance |
+| JavaScript / TS | ![Proficient](https://img.shields.io/badge/Proficient-68%25-FFD700?style=flat-square&labelColor=0D1117) | web · tooling · Node.js |
+| TensorFlow | ![Proficient](https://img.shields.io/badge/Proficient-65%25-FFD700?style=flat-square&labelColor=0D1117) | model training · deployment |
+| Blender | ![Working](https://img.shields.io/badge/Working-45%25-00D9FF?style=flat-square&labelColor=0D1117) | 3D modelling · rigging |
+| Unreal / BP | ![Working](https://img.shields.io/badge/Working-40%25-00D9FF?style=flat-square&labelColor=0D1117) | prototyping · visual scripting |
+| Rust | ![Learning](https://img.shields.io/badge/Learning-20%25-8b949e?style=flat-square&labelColor=0D1117) | systems programming |
 
 </div>
 
@@ -301,11 +301,11 @@ Rust             ██░░░░░░░░░░░░░░░░░░░
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejith-nair511&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=ffffff&area=true&area_color=FF6B6B&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejith-nair511&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Activity" alt="Activity Graph"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sreejith-nair511&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sreejith-nair511&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
 
 </div>
 
@@ -382,7 +382,7 @@ YAML / JSON      1 hr  02 mins   █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="500"/>
 
 **Indie studio building games that respect the player's time and intelligence.**
 
@@ -487,7 +487,7 @@ YAML / JSON      1 hr  02 mins   █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 **"Code is craft. Games are experiences. Ship both with intention."**
 
