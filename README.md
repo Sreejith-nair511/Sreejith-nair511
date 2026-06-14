@@ -34,7 +34,8 @@
 <!--                    ABOUT + 3D GIF                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- RIGHT SIDE: confirmed working coding GIF -->
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
 
 ### `$ whoami`
 
@@ -243,7 +244,7 @@ Domain       : Tech Innovation & Applied AI
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
 
 **Game Engines & 3D**
 
@@ -341,13 +342,25 @@ Domain       : Tech Innovation & Applied AI
 
 <div align="center">
 
+<!-- Simulated contribution heatmap — updates live once repo is pushed -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sreejith-nair511&theme=tokyo-night&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=ffffff&area=true&hide_border=true&radius=6&custom_title=Sreejith%27s+Contribution+Activity" height="250"/>
+
+<br/>
+
+<!-- Fallback pixel-art contribution calendar -->
+<img src="https://ghchart.rshah.org/FF6B6B/Sreejith-nair511" alt="GitHub Contribution Calendar" height="130"/>
+
+<br/>
+
+<!-- Snake will populate here after first workflow run -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" width="100%"
-    src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/Sreejith-nair511/Sreejith-nair511/output/github-contribution-grid-snake-dark.svg"
+    onerror="this.style.display='none'"/>
 </picture>
 
 </div>
@@ -382,7 +395,8 @@ YAML / JSON      1 hr  02 mins   █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="500"/>
+<!-- Studio: game controller / gaming GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
 
 **Indie studio building games that respect the player's time and intelligence.**
 
