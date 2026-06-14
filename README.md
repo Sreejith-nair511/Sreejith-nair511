@@ -34,8 +34,8 @@
 <!--                    ABOUT + 3D GIF                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- RIGHT SIDE: confirmed working coding GIF -->
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif"/>
+<!-- RIGHT SIDE: happy coder at computer GIF - confirmed working -->
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### `$ whoami`
 
@@ -395,8 +395,8 @@ YAML / JSON      1 hr  02 mins   █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-<!-- Studio: game controller / gaming GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
+<!-- Studio: gaming GIF - confirmed working -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420"/>
 
 **Indie studio building games that respect the player's time and intelligence.**
 
