@@ -468,19 +468,9 @@ YAML / JSON      1 hr  02 mins   █░░░░░░░░░░░░░░�
 
 <div align="center">
 
-```
-      seed              sprout             bud               bloom
+<img src="./assets/flower_bloom.png" width="420" alt="Dithered blooming flower"/>
 
-                                                              \  |  /
-                                            (                 -(@)-
-                                           (@)                 /  \
-       .                |                 /|\                  |
-       |                |                  |                   |
-  _____|_____      _____|_____      _____|_____       _____|_____
- /    soil    \    /    soil    \    /    soil    \    /    soil    \
-
-     "Every bug is a puzzle. Every build is a lesson." — still true, one commit at a time.
-```
+**"Every bug is a puzzle. Every build is a lesson."** — still true, one commit at a time.
 
 </div>
 
