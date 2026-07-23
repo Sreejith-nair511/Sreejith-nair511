@@ -469,15 +469,15 @@ YAML / JSON      1 hr  02 mins   █░░░░░░░░░░░░░░�
 <div align="center">
 
 ```
-   seed          sprout          bud            bloom
+      seed              sprout             bud               bloom
 
-    .               |              (              \   |   /
-                     |             (@)              \  |  /
-                     |             /|\           --   (@)   --
-  __________      ___|___       ___|___          /  \  |  /  \
- /  soil    \    /  soil  \    /  soil  \            \ | /
-                                                    ____\|/____
-                                                   /   soil    \
+                                                              \  |  /
+                                            (                 -(@)-
+                                           (@)                 /  \
+       .                |                 /|\                  |
+       |                |                  |                   |
+  _____|_____      _____|_____      _____|_____       _____|_____
+ /    soil    \    /    soil    \    /    soil    \    /    soil    \
 
      "Every bug is a puzzle. Every build is a lesson." — still true, one commit at a time.
 ```
