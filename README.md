@@ -461,22 +461,6 @@ YAML / JSON      1 hr  02 mins   █░░░░░░░░░░░░░░�
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ASCII GARDEN                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `$ ./grow.sh`
-
-<div align="center">
-
-<img src="./assets/flower_bloom.png" width="420" alt="Dithered blooming flower"/>
-
-**"Every bug is a puzzle. Every build is a lesson."** — still true, one commit at a time.
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CONNECT                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
